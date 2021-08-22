@@ -1,0 +1,14 @@
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/bin/Debug/net5.0/8-DataParallelismForEachComplexType.deps.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/bin/Debug/net5.0/8-DataParallelismForEachComplexType.runtimeconfig.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/bin/Debug/net5.0/8-DataParallelismForEachComplexType.runtimeconfig.dev.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/bin/Debug/net5.0/8-DataParallelismForEachComplexType.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/bin/Debug/net5.0/ref/8-DataParallelismForEachComplexType.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/bin/Debug/net5.0/8-DataParallelismForEachComplexType.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/obj/Debug/net5.0/8-DataParallelismForEachComplexType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/obj/Debug/net5.0/8-DataParallelismForEachComplexType.AssemblyInfoInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/obj/Debug/net5.0/8-DataParallelismForEachComplexType.AssemblyInfo.cs
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/obj/Debug/net5.0/8-DataParallelismForEachComplexType.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/obj/Debug/net5.0/8-DataParallelismForEachComplexType.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/obj/Debug/net5.0/ref/8-DataParallelismForEachComplexType.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/obj/Debug/net5.0/8-DataParallelismForEachComplexType.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/obj/Debug/net5.0/8-DataParallelismForEachComplexType.genruntimeconfig.cache

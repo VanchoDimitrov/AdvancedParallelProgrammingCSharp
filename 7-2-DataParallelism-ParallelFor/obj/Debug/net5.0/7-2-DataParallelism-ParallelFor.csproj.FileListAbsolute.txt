@@ -1,0 +1,14 @@
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/bin/Debug/net5.0/7-2-DataParallelism-ParallelFor.deps.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/bin/Debug/net5.0/7-2-DataParallelism-ParallelFor.runtimeconfig.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/bin/Debug/net5.0/7-2-DataParallelism-ParallelFor.runtimeconfig.dev.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/bin/Debug/net5.0/7-2-DataParallelism-ParallelFor.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/bin/Debug/net5.0/ref/7-2-DataParallelism-ParallelFor.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/bin/Debug/net5.0/7-2-DataParallelism-ParallelFor.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/obj/Debug/net5.0/7-2-DataParallelism-ParallelFor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/obj/Debug/net5.0/7-2-DataParallelism-ParallelFor.AssemblyInfoInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/obj/Debug/net5.0/7-2-DataParallelism-ParallelFor.AssemblyInfo.cs
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/obj/Debug/net5.0/7-2-DataParallelism-ParallelFor.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/obj/Debug/net5.0/7-2-DataParallelism-ParallelFor.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/obj/Debug/net5.0/ref/7-2-DataParallelism-ParallelFor.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/obj/Debug/net5.0/7-2-DataParallelism-ParallelFor.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/7-2-DataParallelism-ParallelFor/obj/Debug/net5.0/7-2-DataParallelism-ParallelFor.genruntimeconfig.cache
