@@ -1,0 +1,14 @@
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/bin/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.deps.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/bin/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.runtimeconfig.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/bin/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.runtimeconfig.dev.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/bin/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/bin/Debug/net5.0/ref/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/bin/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/obj/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/obj/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.AssemblyInfoInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/obj/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.AssemblyInfo.cs
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/obj/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/obj/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/obj/Debug/net5.0/ref/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/obj/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/obj/Debug/net5.0/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.genruntimeconfig.cache

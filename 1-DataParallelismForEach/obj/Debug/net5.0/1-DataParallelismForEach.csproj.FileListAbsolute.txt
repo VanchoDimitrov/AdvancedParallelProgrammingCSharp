@@ -1,0 +1,15 @@
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/bin/Debug/net5.0/1-DataParallelismForEach.deps.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/bin/Debug/net5.0/1-DataParallelismForEach.runtimeconfig.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/bin/Debug/net5.0/1-DataParallelismForEach.runtimeconfig.dev.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/bin/Debug/net5.0/1-DataParallelismForEach.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/bin/Debug/net5.0/ref/1-DataParallelismForEach.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/bin/Debug/net5.0/1-DataParallelismForEach.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/1-DataParallelismForEach.csprojAssemblyReference.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/1-DataParallelismForEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/1-DataParallelismForEach.AssemblyInfoInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/1-DataParallelismForEach.AssemblyInfo.cs
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/1-DataParallelismForEach.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/1-DataParallelismForEach.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/ref/1-DataParallelismForEach.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/1-DataParallelismForEach.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/1-DataParallelismForEach/obj/Debug/net5.0/1-DataParallelismForEach.genruntimeconfig.cache

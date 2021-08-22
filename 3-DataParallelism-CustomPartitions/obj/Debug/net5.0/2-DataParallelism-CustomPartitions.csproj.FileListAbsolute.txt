@@ -1,0 +1,15 @@
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/2-DataParallelism-CustomPartitions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/2-DataParallelism-CustomPartitions.AssemblyInfoInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/2-DataParallelism-CustomPartitions.AssemblyInfo.cs
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/2-DataParallelism-CustomPartitions.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/bin/Debug/net5.0/2-DataParallelism-CustomPartitions.deps.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/bin/Debug/net5.0/2-DataParallelism-CustomPartitions.runtimeconfig.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/bin/Debug/net5.0/2-DataParallelism-CustomPartitions.runtimeconfig.dev.json
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/bin/Debug/net5.0/2-DataParallelism-CustomPartitions.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/bin/Debug/net5.0/ref/2-DataParallelism-CustomPartitions.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/bin/Debug/net5.0/2-DataParallelism-CustomPartitions.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/2-DataParallelism-CustomPartitions.csproj.AssemblyReference.cache
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/2-DataParallelism-CustomPartitions.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/ref/2-DataParallelism-CustomPartitions.dll
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/2-DataParallelism-CustomPartitions.pdb
+/Users/admin/Desktop/AdvancedParallel/DataParallelism/2-DataParallelism-CustomPartitions/obj/Debug/net5.0/2-DataParallelism-CustomPartitions.genruntimeconfig.cache
