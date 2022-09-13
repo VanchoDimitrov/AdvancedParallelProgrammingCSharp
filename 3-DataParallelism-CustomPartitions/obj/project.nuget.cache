@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8C14KcvnGBATCbW1S6WL7wyGvW2zx3H2nYdDocg8QjHxnDm1H/gRTBnAFc4V2IxtHtdM+tvB+W3g0ze9xxFCIw==",
+  "dgSpecHash": "yagxcO2sZT824Bo+iVARAStzykH0mOlbCW0HplTCNWog1Iui0TPM3Q83ESyGd14HS9tJR7YtE4TE0sZUue8NfQ==",
   "success": true,
-  "projectFilePath": "/Users/admin/Desktop/AdvancedParallel/DataParallelism/3-DataParallelism-CustomPartitions/3-DataParallelism-CustomPartitions.csproj",
+  "projectFilePath": "C:\\Users\\vanch\\source\\repos\\AdvancedParallelProgrammingCSharp\\3-DataParallelism-CustomPartitions\\3-DataParallelism-CustomPartitions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

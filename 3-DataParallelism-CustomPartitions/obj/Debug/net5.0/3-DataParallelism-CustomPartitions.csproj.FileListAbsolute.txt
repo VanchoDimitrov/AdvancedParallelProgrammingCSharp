@@ -1,0 +1,16 @@
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\bin\Debug\net5.0\3-DataParallelism-CustomPartitions.exe
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\bin\Debug\net5.0\3-DataParallelism-CustomPartitions.deps.json
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\bin\Debug\net5.0\3-DataParallelism-CustomPartitions.runtimeconfig.json
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\bin\Debug\net5.0\3-DataParallelism-CustomPartitions.runtimeconfig.dev.json
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\bin\Debug\net5.0\3-DataParallelism-CustomPartitions.dll
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\bin\Debug\net5.0\3-DataParallelism-CustomPartitions.pdb
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\3-DataParallelism-CustomPartitions.csproj.AssemblyReference.cache
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\3-DataParallelism-CustomPartitions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\3-DataParallelism-CustomPartitions.AssemblyInfoInputs.cache
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\3-DataParallelism-CustomPartitions.AssemblyInfo.cs
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\3-DataParallelism-CustomPartitions.csproj.CoreCompileInputs.cache
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\3-DataParallelism-CustomPartitions.dll
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\refint\3-DataParallelism-CustomPartitions.dll
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\3-DataParallelism-CustomPartitions.pdb
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\3-DataParallelism-CustomPartitions.genruntimeconfig.cache
+C:\Users\vanch\source\repos\AdvancedParallelProgrammingCSharp\3-DataParallelism-CustomPartitions\obj\Debug\net5.0\ref\3-DataParallelism-CustomPartitions.dll

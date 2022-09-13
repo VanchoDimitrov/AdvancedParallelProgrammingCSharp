@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zkae02PyWa4uO+hEQF9bvFFm38Tw3evqQWYsgGs45D9hgkGPKn4pVY/R03eerQTzDIpzBJH5wDtNoISmydIk8Q==",
+  "dgSpecHash": "FivAnDFWZlKrTwigtLqLFhA1KyUKPM0Jvms0T0ktVxh/oDBDxzzHYFHzbSlp1viYD/iIrtPfhJA0ndF48nxN1Q==",
   "success": true,
-  "projectFilePath": "/Users/admin/Desktop/AdvancedParallel/DataParallelism/8-DataParallelismForEachComplexType/8-DataParallelismForEachComplexType.csproj",
+  "projectFilePath": "C:\\Users\\vanch\\source\\repos\\AdvancedParallelProgrammingCSharp\\8-DataParallelismForEachComplexType\\8-DataParallelismForEachComplexType.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

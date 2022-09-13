@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C0X7EmnxDbVGaIkWyZV/+VZ62XT3DbI+1ELUjv7TNm4GpaGTsBf2qcL3hj0OiU6LTzGKRMj4ujnvj3a8/zZd/g==",
+  "dgSpecHash": "U5g4Tu/c+CXg6rMlEzYMKt71ovLkjqyR0cSBNl/JzL0NL0c2HGz/GbofdSeN9H9hJ/i9URrKB4bqdGWr33uPMA==",
   "success": true,
-  "projectFilePath": "/Users/admin/Desktop/AdvancedParallel/DataParallelism/5-DataParallelism–StaticRangePartitioningForParallel.ForEach/5-DataParallelism–StaticRangePartitioningForParallel.ForEach.csproj",
+  "projectFilePath": "C:\\Users\\vanch\\source\\repos\\AdvancedParallelProgrammingCSharp\\5-DataParallelism–StaticRangePartitioningForParallel.ForEach\\5-DataParallelism–StaticRangePartitioningForParallel.ForEach.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
